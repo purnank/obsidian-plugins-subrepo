@@ -3,7 +3,7 @@
   "weekStart": "locale",
   "wordsPerDot": 250,
   "showWeeklyNote": true,
-  "weeklyNoteFormat": "[wk]gggg.ww",
+  "weeklyNoteFormat": "[Wk]gggg.ww",
   "weeklyNoteTemplate": "ztemplates/notes-weekly",
   "weeklyNoteFolder": "notes/weekly",
   "localeOverride": "system-default"

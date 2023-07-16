@@ -60,7 +60,7 @@
       "use-yaml-key-to-keep-track-of-old-filename-or-heading": true
     },
     "capitalize-headings": {
-      "enabled": false,
+      "enabled": true,
       "style": "Title Case",
       "ignore-case-words": true,
       "ignore-words": "macOS, iOS, iPhone, iPad, JavaScript, TypeScript, AppleScript, I",
@@ -74,20 +74,20 @@
       "start-at-h2": false
     },
     "headings-start-line": {
-      "enabled": false
+      "enabled": true
     },
     "remove-trailing-punctuation-in-heading": {
-      "enabled": false,
+      "enabled": true,
       "punctuation-to-remove": ".,;:!。，；：！"
     },
     "footnote-after-punctuation": {
-      "enabled": false
+      "enabled": true
     },
     "move-footnotes-to-the-bottom": {
-      "enabled": false
+      "enabled": true
     },
     "re-index-footnotes": {
-      "enabled": false
+      "enabled": true
     },
     "auto-correct-common-misspellings": {
       "enabled": false,
@@ -98,17 +98,17 @@
       "style": "space"
     },
     "convert-bullet-list-markers": {
-      "enabled": false
+      "enabled": true
     },
     "emphasis-style": {
       "enabled": false,
       "style": "consistent"
     },
     "no-bare-urls": {
-      "enabled": false
+      "enabled": true
     },
     "ordered-list-style": {
-      "enabled": false,
+      "enabled": true,
       "number-style": "ascending",
       "list-end-style": "."
     },
@@ -123,26 +123,26 @@
       "double-quote-style": "\"\""
     },
     "remove-consecutive-list-markers": {
-      "enabled": false
+      "enabled": true
     },
     "remove-empty-list-markers": {
-      "enabled": false
+      "enabled": true
     },
     "remove-hyphenated-line-breaks": {
-      "enabled": false
+      "enabled": true
     },
     "remove-multiple-spaces": {
-      "enabled": false
+      "enabled": true
     },
     "strong-style": {
       "enabled": false,
       "style": "consistent"
     },
     "two-spaces-between-lines-with-content": {
-      "enabled": false
+      "enabled": true
     },
     "unordered-list-style": {
-      "enabled": false,
+      "enabled": true,
       "list-style": "consistent"
     },
     "compact-yaml": {
@@ -150,7 +150,7 @@
       "inner-new-lines": false
     },
     "consecutive-blank-lines": {
-      "enabled": false
+      "enabled": true
     },
     "convert-spaces-to-tabs": {
       "enabled": false,
@@ -169,24 +169,24 @@
       "enabled": false
     },
     "heading-blank-lines": {
-      "enabled": false,
+      "enabled": true,
       "bottom": true,
       "empty-line-after-yaml": true
     },
     "line-break-at-document-end": {
-      "enabled": false
+      "enabled": true
     },
     "move-math-block-indicators-to-their-own-line": {
       "enabled": false
     },
     "paragraph-blank-lines": {
-      "enabled": false
+      "enabled": true
     },
     "remove-empty-lines-between-list-markers-and-checklists": {
-      "enabled": false
+      "enabled": true
     },
     "remove-link-spacing": {
-      "enabled": false
+      "enabled": true
     },
     "remove-space-around-characters": {
       "enabled": false,
@@ -201,13 +201,13 @@
       "characters-to-remove-space-after": "¿¡‘“(["
     },
     "space-after-list-markers": {
-      "enabled": false
+      "enabled": true
     },
     "space-between-chinese-japanese-or-korean-and-english-or-numbers": {
       "enabled": false
     },
     "trailing-spaces": {
-      "enabled": false,
+      "enabled": true,
       "twp-space-line-break": false
     },
     "add-blockquote-indentation-on-paste": {
@@ -232,7 +232,7 @@
       "enabled": false
     },
     "remove-multiple-blank-lines-on-paste": {
-      "enabled": false
+      "enabled": true
     }
   },
   "lintOnSave": false,
