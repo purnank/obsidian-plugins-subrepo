@@ -162,6 +162,13 @@
         "nextStatusSymbol": "x",
         "availableAsCommand": false,
         "type": "TODO"
+      },
+      {
+        "symbol": "Z",
+        "name": "Unknown (Z)",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "TODO"
       }
     ]
   },
